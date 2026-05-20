@@ -303,4 +303,4 @@ ideas find their people.
 capital finds its purpose.
 ```
 
-</div>\
+</div>
